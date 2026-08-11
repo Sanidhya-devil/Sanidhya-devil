@@ -1,98 +1,135 @@
-<h1 align="center">Hi 👋, I'm Sanidhya Gupta</h1>
-<h3 align="center">AI/ML Engineer • Building for Bharat 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+Data+Science)+%40+Poornima+University;Building+AI+for+Social+Impact;ML+%7C+DL+%7C+Computer+Vision+%7C+GenAI;Open+to+ML%2FAI+Internships+2026" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=220&section=header&text=Sanidhya%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Building%20for%20Bharat%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E75B2&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+Data+Science)+%40+Poornima+University;Building+AI+for+Social+Impact+%F0%9F%8C%8D;ML+%7C+DL+%7C+Computer+Vision+%7C+GenAI;Open+to+ML%2FAI+Internships+2026+%F0%9F%9A%80" />
 
----
+<br/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E75B2&height=3&width=100%" />
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech CSE (AI & Data Science) student at **Poornima University, Jaipur**
-- 🔭 Currently building **NyaySaathi** — an AI-powered legal aid app for rural India (Flutter + Gemini + RAG)
-- 💼 Completed ML & DevOps internships at **LinuxWorld Informatics** — prediction models, CI/CD, Docker, K8s, AWS
-- 🌱 Exploring **agentic AI governance**, **RAG pipelines**, and **on-device ML**
-- 🏆 Active in national-level hackathons — building AI for underserved communities
-- 🎯 Looking for **ML/AI internships** (Google, Microsoft) & freelance ML projects
-- ⚡ Fun fact: I'd rather train a model than train for a marathon
+```yaml
+name: Sanidhya Gupta
+role: AI/ML Engineer & CS Undergrad
+current_focus: NyaySaathi — AI legal aid app for rural India
+education: B.Tech CSE (AI & Data Science), Poornima University, Jaipur (2024–2028)
+experience: ML Intern & DevOps Intern @ LinuxWorld Informatics
+looking_for: ML/AI internships (Google, Microsoft) + freelance ML projects
+currently_exploring: Agentic AI governance · RAG pipelines · On-device ML
+fun_fact: I'd rather train a model than train for a marathon 🏃‍♂️➡️🤖
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E75B2&height=3&width=100%" />
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,flutter,fastapi,firebase,aws,docker,kubernetes,terraform,git,github,vscode&perline=6" />
-</p>
+<div align="center">
 
-**AI/ML & Data:** PyTorch · Scikit-learn · Hugging Face · OpenCV · MediaPipe · NLTK · NumPy · Pandas
-**GenAI & Vector DBs:** Gemini API · Vertex AI · ChromaDB (RAG)
-**Dev & Cloud:** FastAPI · Firebase · Flutter · Docker · Kubernetes · Jenkins · AWS (Boto3) · Terraform/Ansible
-**Dashboards:** Streamlit · Gradio
+<img src="https://skillicons.dev/icons?i=py,cpp,flutter,fastapi,firebase,aws,docker,kubernetes,terraform,git,github,vscode&theme=dark&perline=6" />
 
----
+</div>
 
-### 📌 Featured Projects
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>⚖️ NyaySaathi</h4>
-      AI-powered legal aid app for rural India — Flutter + Gemini 1.5 Pro + FastAPI + ChromaDB RAG, covering BNS/BNSS/Consumer Protection/GST. GDG Solution Challenge 2026 entry.<br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>🏥 Hospital Recommendation System</h4>
-      Content-based recommendation engine matching patients to care based on symptoms/preferences. Selected under Prayogam Innovation Showcase.<br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>✋ Hand Gesture Recognition Game</h4>
-      Real-time hand tracking with <50ms latency across 10+ gesture classes, built during ML internship.<br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h4>♻️ ReWear</h4>
-      Community clothing exchange platform with a points-based redemption model.<br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**🧠 AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**⚡ GenAI & Backend**
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E75B2&height=3&width=100%" />
 
-### 📊 GitHub Stats
+### 📌 Featured Builds
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>⚖️ NyaySaathi</h4>
+<i>AI-powered legal aid app for rural India</i>
+<br/><br/>
+Flutter + Gemini 1.5 Pro + FastAPI + ChromaDB RAG pipeline covering BNS, BNSS, Consumer Protection & GST law. Built for GDG Solution Challenge 2026.
+<br/><br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-ChromaDB-FF6F61?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h4>🏥 Hospital Recommendation System</h4>
+<i>Content-based care recommendation engine</i>
+<br/><br/>
+Matches patients to hospitals/care based on symptoms and preferences. Selected under the Prayogam Innovation Showcase.
+<br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>✋ Hand Gesture Recognition Game</h4>
+<i>Real-time computer vision game</i>
+<br/><br/>
+Sub-50ms latency hand tracking across 10+ gesture classes, built during ML internship at LinuxWorld Informatics.
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<h4>♻️ ReWear</h4>
+<i>Community clothing exchange platform</i>
+<br/><br/>
+Points-based redemption model enabling sustainable clothing swaps within communities.
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E75B2&height=3&width=100%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
 
----
+### 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=2E9EF7&style=flat" alt="profile views"/>
-</p>
+I'm actively looking for **ML/AI internship opportunities** and **freelance ML projects** — feel free to reach out!
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a> — thanks for stopping by!</i></p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=120&section=footer" width="100%"/>
+
+</div>
